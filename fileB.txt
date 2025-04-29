@@ -1,0 +1,5 @@
+This is fileB.txt
+
+Created by Bashir for TCSS360 Git Basics Assignment.
+
+This file is used to practice git add, commit, branch, and merge operations.
