@@ -1,6 +1,6 @@
 Team Members:
 - Abdullahi (Group Leader)
-- Aisha
+- Aisha Nur
 - Bashir Maxamad
 
 Summary:
